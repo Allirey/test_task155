@@ -2,7 +2,7 @@
 
 ###### deployed on: 
 
-http://52.58.21.188/
+http://52.58.21.188/api/
 
 ###### api collection on Postman:
 
@@ -24,4 +24,4 @@ $ sudo docker-compose up --build
 
 #### Usage
 
-- The Django server: http://localhost:8000/
+- The Django server: http://localhost/api/
